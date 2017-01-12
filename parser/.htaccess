@@ -1,0 +1,5 @@
+# Настройка сервера
+DirectoryIndex all_courses_parse.php
+
+# Настройка php
+php_flag asp_tags on

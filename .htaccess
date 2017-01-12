@@ -1,0 +1,5 @@
+# Настройка сервера
+DirectoryIndex index.php
+
+# Настройка php
+php_flag asp_tags on
